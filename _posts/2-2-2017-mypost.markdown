@@ -2,6 +2,7 @@
 title: Test post
 layout: post
 date: 2-2-2017
+blog: true
 ---
 
 #Heading
@@ -10,7 +11,7 @@ date: 2-2-2017
 
 List:
 ---
--l1
--l2
--l3
+- l1
+- l2
+- l3
 ---
