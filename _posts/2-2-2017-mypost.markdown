@@ -1,14 +1,15 @@
-...
+---
 title: Test post
 layout: post
 date: 2-2-2017
-...
+---
 
-###Heading
+#Heading
 
-#Some text
-...
+##Some text
+---
+List:
 -l1
 -l2
 -l3
-...
+---
